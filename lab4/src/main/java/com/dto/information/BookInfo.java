@@ -1,4 +1,4 @@
-package com.dto.contact;
+package com.dto.information;
 
 
 import javax.xml.bind.annotation.XmlAttribute;

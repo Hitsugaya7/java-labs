@@ -1,7 +1,7 @@
 package com.dto;
 
-import com.dto.contact.Author;
-import com.dto.contact.BookInfo;
+import com.dto.information.Author;
+import com.dto.information.BookInfo;
 import org.junit.Assert;
 import org.junit.jupiter.api.Test;
 
