@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<schema xmlns="http://www.w3.org/2001/XMLSchema" targetNamespace="https://github.com/Hitsugaya7/java-labs/lab4">
+    <element name="library">
+       <complexType>
+           <sequence>
+              <element name="book" maxOccurs="unbounded" minOccurs="0">
+                  <complexType>
+                      <sequence>
+                          <element name="author">
+                              <complexType>
+                                  <attribute name="firstName" type="string" use="required"/>
+                                  <attribute name="lastName" type="string" use="required"/>
+                              </complexType>
+                          </element>
+                          <element name="bookInfo">
+                              <complexType>
+                                  <attribute name="bookName" type="string" use="required"/>
+                                  <attribute name="graduationYear" type="string" use="required"/>
+                              </complexType>
+                          </element>
+                      </sequence>
+                  </complexType>
+              </element>
+           </sequence>
+       </complexType>
+    </element>
+</schema>

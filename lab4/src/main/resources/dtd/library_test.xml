@@ -1,0 +1,31 @@
+<!DOCTYPE library [
+        <!ELEMENT bookInfo EMPTY>
+        <!ELEMENT author EMPTY>
+        <!ELEMENT book (author, bookInfo)>
+        <!ELEMENT library (book*)>
+
+        <!ATTLIST bookInfo
+                bookName CDATA #REQUIRED
+                graduationYear  CDATA #REQUIRED
+                >
+
+        <!ATTLIST author
+                firstName CDATA #REQUIRED
+                lastName  CDATA #REQUIRED
+                >
+        ]>
+
+<library>
+    <book>
+        <author firstName="Yerdos" lastName="Ilyassov"/>
+        <bookInfo bookName="The Lord of the Rings: chapter one" graduationYear="1997"/>
+    </book>
+    <book>
+        <author firstName="Chingis" lastName="Yessenbayev"/>
+        <bookInfo bookName="The Lord of the Rings: chapter two" graduationYear="1996"/>
+    </book>
+    <book>
+        <author firstName="Baurzhan" lastName="Nurgazy"/>
+        <bookInfo bookName="The Lord of the Rings: chapter three" graduationYear="1998"/>
+    </book>
+</library>

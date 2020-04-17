@@ -1,0 +1,16 @@
+<!DOCTYPE library [
+        <!ELEMENT bookInfo EMPTY>
+        <!ELEMENT author EMPTY>
+        <!ELEMENT book (author, bookInfo)>
+        <!ELEMENT library (book*)>
+
+        <!ATTLIST bookInfo
+                bookName CDATA #REQUIRED
+                graduationYear  CDATA #REQUIRED
+                >
+
+        <!ATTLIST author
+                firstName CDATA #REQUIRED
+                lastName  CDATA #REQUIRED
+                >
+        ]>

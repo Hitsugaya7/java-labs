@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<directory:library xmlns:directory="https://github.com/Hitsugaya7/java-labs/lab4"
+                   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                   xsi:schemaLocation="https://github.com/Hitsugaya7/java-labs/lab4 ">
+    <book>
+        <author firstName="Yerdos" lastName="Ilyassov"/>
+        <bookInfo bookName="The Lord of the Rings: chapter one" graduationYear="1997"/>
+    </book>
+    <book>
+        <author firstName="Chingis" lastName="Yessenbayev"/>
+        <bookInfo bookName="The Lord of the Rings: chapter two" graduationYear="1996"/>
+    </book>
+    <book>
+        <author firstName="Baurzhan" lastName="Nurgazy"/>
+        <bookInfo bookName="The Lord of the Rings: chapter three" graduationYear="1998"/>
+    </book>
+</directory:library>
