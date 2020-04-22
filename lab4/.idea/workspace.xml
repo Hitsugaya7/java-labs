@@ -3,13 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="9797fe23-b2e3-44fa-8553-3dc2b738204d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/Package dto.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/ЛР_4.docx" beforeDir="false" afterPath="$PROJECT_DIR$/report/ЛР_4.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/ЛР_4.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/dto/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dto/Book.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/dto/contact/Author.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dto/information/Author.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/dto/contact/BookInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dto/information/BookInfo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/dto/MarshallingDemarshallingTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/dto/MarshallingDemarshallingTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,6 +91,7 @@
       <workItem from="1587125020267" duration="1494000" />
       <workItem from="1587126760359" duration="1497000" />
       <workItem from="1587143740132" duration="293000" />
+      <workItem from="1587371775354" duration="70000" />
     </task>
     <task id="LOCAL-00001" summary="add lab4">
       <created>1587126837101</created>
@@ -129,10 +123,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1587124250894" />
-    <state x="542" y="114" key="CommitChangelistDialog2" timestamp="1587126836040">
+    <state x="542" y="114" key="CommitChangelistDialog2" timestamp="1587144106961">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="542" y="114" key="CommitChangelistDialog2/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1587126836040" />
+    <state x="542" y="114" key="CommitChangelistDialog2/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1587144106961" />
     <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1587127361491">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -169,9 +163,13 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="338" key="GridCell.Tab.1.right/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1587126580980" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1587126840357">
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1587144112233">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1587126840357" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1587144112233" />
+    <state x="656" y="343" key="com.intellij.ide.util.TipDialog" timestamp="1587371833785">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="343" key="com.intellij.ide.util.TipDialog/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1587371833785" />
   </component>
 </project>
