@@ -1,26 +1,4 @@
-<!DOCTYPE library [
-        <!ELEMENT bookInfo EMPTY>
-        <!ELEMENT author EMPTY>
-        <!ELEMENT reader EMPTY>
-        <!ELEMENT book (author, bookInfo, reader)>
-        <!ELEMENT library (book*)>
-
-        <!ATTLIST bookInfo
-                bookName CDATA #REQUIRED
-                graduationYear  CDATA #REQUIRED
-                >
-
-        <!ATTLIST author
-                firstName CDATA #REQUIRED
-                lastName  CDATA #REQUIRED
-                >
-
-        <!ATTLIST reader
-                firstName CDATA #REQUIRED
-                lastName  CDATA #REQUIRED
-                >
-        ]>
-
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <library>
     <book>
         <author firstName="Yerdos" lastName="Ilyassov"/>
