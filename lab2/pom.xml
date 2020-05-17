@@ -33,7 +33,7 @@
                         <configuration>
                             <archive>
                                 <manifest>
-                                    <mainClass>com.lab2.functional.Surface</mainClass>
+                                    <mainClass>com.lab2.functional.Main</mainClass>
                                 </manifest>
                             </archive>
                             <descriptorRefs>
