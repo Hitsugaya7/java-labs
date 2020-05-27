@@ -1,7 +1,8 @@
 <!DOCTYPE library [
         <!ELEMENT bookInfo EMPTY>
         <!ELEMENT author EMPTY>
-        <!ELEMENT book (author, bookInfo)>
+        <!ELEMENT reader EMPTY>
+        <!ELEMENT book (author, bookInfo, reader)>
         <!ELEMENT library (book*)>
 
         <!ATTLIST bookInfo
@@ -13,19 +14,27 @@
                 firstName CDATA #REQUIRED
                 lastName  CDATA #REQUIRED
                 >
+
+        <!ATTLIST reader
+                firstName CDATA #REQUIRED
+                lastName  CDATA #REQUIRED
+                >
         ]>
 
 <library>
     <book>
         <author firstName="Yerdos" lastName="Ilyassov"/>
         <bookInfo bookName="The Lord of the Rings: chapter one" graduationYear="1997"/>
+        <reader firstName="ReaderFirstName1" lastName="ReaderLastName1"/>
     </book>
     <book>
         <author firstName="Chingis" lastName="Yessenbayev"/>
         <bookInfo bookName="The Lord of the Rings: chapter two" graduationYear="1996"/>
+        <reader firstName="ReaderFirstName2" lastName="ReaderLastName2"/>
     </book>
     <book>
         <author firstName="Baurzhan" lastName="Nurgazy"/>
         <bookInfo bookName="The Lord of the Rings: chapter three" graduationYear="1998"/>
+        <reader firstName="ReaderFirstName3" lastName="ReaderLastName3"/>
     </book>
 </library>

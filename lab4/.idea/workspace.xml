@@ -1,13 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9797fe23-b2e3-44fa-8553-3dc2b738204d" name="Default Changelist" comment="">
+    <list default="true" id="9797fe23-b2e3-44fa-8553-3dc2b738204d" name="Default Changelist" comment="add lab4">
+      <change afterPath="$PROJECT_DIR$/../lab3/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/.idea/lab1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/.idea/lab3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dto/Book.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dto/Book.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dto/contact/Author.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dto/contact/BookInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dtd/library.dtd" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dtd/library.dtd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dtd/library_test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dtd/library_test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/dto/MarshallingDemarshallingTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/dto/MarshallingDemarshallingTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -23,9 +48,49 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../lab1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../lab3" />
   </component>
-  <component name="RunManager" selected="JUnit.MarshallingDemarshallingTest.demarshallingTest">
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.dto" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\yerdos\Desktop\study\java-labs\lab4\src\test\resources\data" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.MarshallingDemarshallingIndividualTaskTest.demarshallingTest">
+    <configuration name="MarshallingDemarshallingIndividualTaskTest.demarshallingTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lab4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dto.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.dto" />
+      <option name="MAIN_CLASS_NAME" value="com.dto.MarshallingDemarshallingIndividualTaskTest" />
+      <option name="METHOD_NAME" value="demarshallingTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MarshallingDemarshallingIndividualTaskTest.marshallingTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lab4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dto.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.dto" />
+      <option name="MAIN_CLASS_NAME" value="com.dto.MarshallingDemarshallingIndividualTaskTest" />
+      <option name="METHOD_NAME" value="marshallingTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MarshallingDemarshallingTest.demarshallingTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="lab4" />
       <extension name="coverage">
@@ -60,8 +125,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.MarshallingDemarshallingTest.demarshallingTest" />
+        <item itemvalue="JUnit.MarshallingDemarshallingIndividualTaskTest.demarshallingTest" />
+        <item itemvalue="JUnit.MarshallingDemarshallingIndividualTaskTest.marshallingTest" />
         <item itemvalue="JUnit.MarshallingDemarshallingTest.marshallingTest" />
+        <item itemvalue="JUnit.MarshallingDemarshallingTest.demarshallingTest" />
       </list>
     </recent_temporary>
   </component>
@@ -92,6 +159,8 @@
       <workItem from="1587126760359" duration="1497000" />
       <workItem from="1587143740132" duration="293000" />
       <workItem from="1587371775354" duration="70000" />
+      <workItem from="1589721772828" duration="3032000" />
+      <workItem from="1590338892118" duration="180000" />
     </task>
     <task id="LOCAL-00001" summary="add lab4">
       <created>1587126837101</created>
@@ -100,7 +169,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587126837101</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add lab4">
+      <created>1589724177352</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1589724177352</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -111,10 +187,14 @@
     <option name="LAST_COMMIT_MESSAGE" value="add lab4" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="92" y="92" width="1736" height="856" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1587126644382">
+    <state x="92" y="92" width="1736" height="856" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1589723731598">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="92" y="92" width="1736" height="856" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1587126644382" />
+    <state x="92" y="92" width="1736" height="856" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1589723731598" />
+    <state x="765" y="203" key="#com.intellij.ide.util.MemberChooser" timestamp="1589723121967">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="203" key="#com.intellij.ide.util.MemberChooser/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1589723121967" />
     <state x="690" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1587126627420">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -123,53 +203,74 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1587124250894" />
-    <state x="542" y="114" key="CommitChangelistDialog2" timestamp="1587144106961">
+    <state x="542" y="114" key="CommitChangelistDialog2" timestamp="1590339056499">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="542" y="114" key="CommitChangelistDialog2/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1587144106961" />
-    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1587127361491">
+    <state x="542" y="114" key="CommitChangelistDialog2/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1590339056499" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1590339069472">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="274" key="FileChooserDialogImpl/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1587127361491" />
-    <state width="1877" height="274" key="GridCell.Tab.0.bottom" timestamp="1587126653798">
+    <state x="740" y="274" key="FileChooserDialogImpl/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1590339069472" />
+    <state width="1877" height="148" key="GridCell.Tab.0.bottom" timestamp="1589793594642">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="274" key="GridCell.Tab.0.bottom/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1587126653798" />
-    <state width="1877" height="274" key="GridCell.Tab.0.center" timestamp="1587126653798">
+    <state width="1877" height="148" key="GridCell.Tab.0.bottom/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1589793594642" />
+    <state width="1877" height="148" key="GridCell.Tab.0.center" timestamp="1589793594641">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="274" key="GridCell.Tab.0.center/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1587126653798" />
-    <state width="1877" height="274" key="GridCell.Tab.0.left" timestamp="1587126653797">
+    <state width="1877" height="148" key="GridCell.Tab.0.center/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1589793594641" />
+    <state width="1877" height="148" key="GridCell.Tab.0.left" timestamp="1589793594641">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="274" key="GridCell.Tab.0.left/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1587126653797" />
-    <state width="1877" height="274" key="GridCell.Tab.0.right" timestamp="1587126653798">
+    <state width="1877" height="148" key="GridCell.Tab.0.left/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1589793594641" />
+    <state width="1877" height="148" key="GridCell.Tab.0.right" timestamp="1589793594641">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="274" key="GridCell.Tab.0.right/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1587126653798" />
-    <state width="1877" height="338" key="GridCell.Tab.1.bottom" timestamp="1587126580980">
+    <state width="1877" height="148" key="GridCell.Tab.0.right/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1589793594641" />
+    <state width="1877" height="148" key="GridCell.Tab.1.bottom" timestamp="1589793594642">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="338" key="GridCell.Tab.1.bottom/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1587126580980" />
-    <state width="1877" height="338" key="GridCell.Tab.1.center" timestamp="1587126580980">
+    <state width="1877" height="148" key="GridCell.Tab.1.bottom/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1589793594642" />
+    <state width="1877" height="148" key="GridCell.Tab.1.center" timestamp="1589793594642">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="338" key="GridCell.Tab.1.center/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1587126580980" />
-    <state width="1877" height="338" key="GridCell.Tab.1.left" timestamp="1587126580980">
+    <state width="1877" height="148" key="GridCell.Tab.1.center/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1589793594642" />
+    <state width="1877" height="148" key="GridCell.Tab.1.left" timestamp="1589793594642">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="338" key="GridCell.Tab.1.left/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1587126580980" />
-    <state width="1877" height="338" key="GridCell.Tab.1.right" timestamp="1587126580980">
+    <state width="1877" height="148" key="GridCell.Tab.1.left/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1589793594642" />
+    <state width="1877" height="148" key="GridCell.Tab.1.right" timestamp="1589793594642">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="338" key="GridCell.Tab.1.right/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1587126580980" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1587144112233">
+    <state width="1877" height="148" key="GridCell.Tab.1.right/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1589793594642" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1589724185159">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1587144112233" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1589724185159" />
     <state x="656" y="343" key="com.intellij.ide.util.TipDialog" timestamp="1587371833785">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="656" y="343" key="com.intellij.ide.util.TipDialog/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1587371833785" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/dto/MarshallingDemarshallingTest.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/dto/MarshallingDemarshallingTest.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/dto/MarshallingDemarshallingIndividualTaskTest.java</url>
+          <line>57</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
